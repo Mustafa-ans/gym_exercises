@@ -12,7 +12,7 @@ const HeroBanner = () => {
         <Typography fontWeight={700} sx= {{fontSize: {lg: '44px', xs: '40px'}}}>
             Lift, Sweat and Repeat!
         </Typography>
-        <Typography fontSize="22px" LineHieght = "35px" mb={2}>
+        <Typography fontSize="22px" linehieght = "35px" mb={2}>
             Check out the most effective exercises
         </Typography>
         <Button variant= "container" href= "#exercises"
